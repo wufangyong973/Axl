@@ -11,6 +11,7 @@ target/
 coverage/
 services/relay/_build/
 services/relay/deps/
+temp_auto_push.bat
 docs/screenshots/
 *.tsbuildinfo
 .env
@@ -24,3 +25,5 @@ docs/screenshots/
 !CODE_STRUCTURE.md
 !OPEN_SOURCE.md
 !ROADMAP.md
+.gitignore
+branch_structure.json
