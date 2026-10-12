@@ -9,6 +9,7 @@ dist/
 coverage/
 docs/screenshots/
 *.tsbuildinfo
+temp_auto_push.bat
 .env
 .env.*
 !.env.example
@@ -21,3 +22,5 @@ web-client-tracking.md
 !CODE_STRUCTURE.md
 !OPEN_SOURCE.md
 !ROADMAP.md
+.gitignore
+branch_structure.json
